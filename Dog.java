@@ -1,5 +1,4 @@
-package divya;
-
+//parameterized constructor
 public class Dog {
 	String name,color;
 	public Dog(String x,String y) {
