@@ -1,3 +1,4 @@
+//java basic while loop
 public class try_while
 {
 	public static void main(String[] args)
