@@ -1,3 +1,4 @@
+//subclass-overrides
 package divya;
 class Animal{
 	public void eat()
