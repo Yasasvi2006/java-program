@@ -1,4 +1,4 @@
-package divya;
+//outerclass-innerclass
 class Computer{
 	int vers=12;
 	class Processor{
