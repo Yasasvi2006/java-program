@@ -1,4 +1,4 @@
-package divya;
+//overriding
 
 class Shape1 {
 	int a=5,b=6;
