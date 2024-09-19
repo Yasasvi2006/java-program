@@ -1,4 +1,4 @@
-package divya;
+//default constructor
 
 public class Cat {
 	int age;
