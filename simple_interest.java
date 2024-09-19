@@ -1,3 +1,4 @@
+//simple interest
 package java_method;
 import java.util.Scanner;
 public class simple_interest {
